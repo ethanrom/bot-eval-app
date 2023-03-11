@@ -1,0 +1,5 @@
+rouge_score
+pandas
+matplotlib
+streamlit
+nltk
